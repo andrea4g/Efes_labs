@@ -1,0 +1,5 @@
+#Tue Nov 15 11:21:16 CET 2016
+newSoftwareExampleWizardPage.defaultLocation=X\:\\ElectronicsForES\\nios_uart\\software\\uart_com_final
+newSoftwareExampleWizardPage.sopcinfoFile=X\:\\ElectronicsForES\\nios_uart\\uart_com.sopcinfo
+eclipse.preferences.version=1
+newSoftwareExampleWizardPage2.newBspLocation=X\:\\ElectronicsForES\\nios_uart\\software\\uart_com_final_bsp

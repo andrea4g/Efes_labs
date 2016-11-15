@@ -1,0 +1,98 @@
+Altera SOPC Builder Version 11.01 Build 208
+Copyright (c) 1999-2009 Altera Corporation.  All rights reserved.
+
+
+No .sopc_builder configuration file(!)
+# 2016.11.15 09:40:04 (*) mk_custom_sdk starting
+# 2016.11.15 09:40:04 (*) Reading project X:/ElectronicsForES/nios_uart/uart_com.ptf.
+
+# 2016.11.15 09:40:05 (*) Finding all CPUs
+# 2016.11.15 09:40:05 (*) Finding all available components
+# 2016.11.15 09:40:05 (*) Reading X:/ElectronicsForES/nios_uart/.sopc_builder/install.ptf
+
+# 2016.11.15 09:40:05 (*) Found 63 components
+
+# 2016.11.15 09:40:05 (*) Finding all peripherals
+
+# 2016.11.15 09:40:05 (*) Finding software components
+
+# 2016.11.15 09:40:05 (*) (Legacy SDK Generation Skipped)
+# 2016.11.15 09:40:05 (*) (All TCL Script Generation Skipped)
+# 2016.11.15 09:40:05 (*) (No Libraries Built)
+# 2016.11.15 09:40:05 (*) (Contents Generation Skipped)
+# 2016.11.15 09:40:05 (*) mk_custom_sdk finishing
+
+# 2016.11.15 09:40:05 (*) Starting generation for system: uart_com.
+
+.
+.
+.
+.
+....
+
+# 2016.11.15 09:40:06 (*) Running Generator Program for cpu_0
+
+# 2016.11.15 09:40:07 (*) Starting Nios II generation
+# 2016.11.15 09:40:07 (*)   Checking for plaintext license.
+# 2016.11.15 09:40:07 (*)   Couldn't query license setup in Quartus directory c:/altera/11.0sp1/quartus
+# 2016.11.15 09:40:07 (*)   Defaulting to contents of LM_LICENSE_FILE environment variable
+# 2016.11.15 09:40:07 (*)   LM_LICENSE_FILE environment variable is empty
+# 2016.11.15 09:40:07 (*)   Plaintext license not found.
+# 2016.11.15 09:40:07 (*)   Checking for encrypted license (non-evaluation).
+
+# 2016.11.15 09:40:07 (*)   Couldn't query license setup in Quartus directory c:/altera/11.0sp1/quartus
+# 2016.11.15 09:40:07 (*)   Defaulting to contents of LM_LICENSE_FILE environment variable
+# 2016.11.15 09:40:07 (*)   LM_LICENSE_FILE environment variable is empty
+# 2016.11.15 09:40:07 (*)   Encrypted license not found.  Defaulting to OCP evaluation license (produces a time-limited SOF)
+# 2016.11.15 09:40:07 (*)   Getting CPU configuration settings
+# 2016.11.15 09:40:07 (*)   Elaborating CPU configuration settings
+
+# 2016.11.15 09:40:07 (*)   Creating all objects for CPU
+# 2016.11.15 09:40:07 (*)     Testbench
+# 2016.11.15 09:40:07 (*)     Instruction decoding
+# 2016.11.15 09:40:07 (*)       Instruction fields
+# 2016.11.15 09:40:08 (*)       Instruction decodes
+# 2016.11.15 09:40:08 (*)       Signals for RTL simulation waveforms
+# 2016.11.15 09:40:08 (*)       Instruction controls
+# 2016.11.15 09:40:08 (*)     Pipeline frontend
+# 2016.11.15 09:40:09 (*)     Pipeline backend
+# 2016.11.15 09:40:12 (*)   Generating HDL from CPU objects
+
+# 2016.11.15 09:40:21 (*)   Creating encrypted HDL
+# 2016.11.15 09:40:23 (*) Done Nios II generation
+
+# 2016.11.15 09:40:23 (*) Running Generator Program for onchip_memory2_0
+
+# 2016.11.15 09:40:24 (*) Running Generator Program for timer_0
+
+# 2016.11.15 09:40:25 (*) Running Generator Program for pio_0
+
+# 2016.11.15 09:40:26 (*) Running Generator Program for jtag_uart_0
+
+# 2016.11.15 09:40:27 (*) Running Generator Program for pio_1
+
+# 2016.11.15 09:40:28 (*) Running Generator Program for pio_2
+
+# 2016.11.15 09:40:29 (*) Running Generator Program for pio_3
+
+
+# 2016.11.15 09:40:29 (*) Making arbitration and system (top) modules.
+
+# 2016.11.15 09:40:34 (*) Generating Quartus symbol for top level: uart_com
+
+# 2016.11.15 09:40:34 (*) Symbol X:/ElectronicsForES/nios_uart/uart_com.bsf already exists, no need to regenerate
+# 2016.11.15 09:40:34 (*) Creating command-line system-generation script: X:/ElectronicsForES/nios_uart/uart_com_generation_script
+
+# 2016.11.15 09:40:34 (*) Running setup for HDL simulator: modelsim
+
+
+# 2016.11.15 09:40:35 (*) Completed generation for system: uart_com.
+# 2016.11.15 09:40:35 (*) THE FOLLOWING SYSTEM ITEMS HAVE BEEN GENERATED:
+  SOPC Builder database : X:/ElectronicsForES/nios_uart/uart_com.ptf 
+  System HDL Model : X:/ElectronicsForES/nios_uart/uart_com.vhd 
+  System Generation Script : X:/ElectronicsForES/nios_uart/uart_com_generation_script 
+
+# 2016.11.15 09:40:35 (*) SUCCESS: SYSTEM GENERATION COMPLETED.
+
+
+Press 'Exit' to exit.
