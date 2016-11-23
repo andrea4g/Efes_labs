@@ -36,4 +36,4 @@ simulation/
 timing/
 testbench/
 *_sim/
-*_builder/
+*_edit/
