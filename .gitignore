@@ -37,3 +37,6 @@ timing/
 testbench/
 *_sim/
 *_edit/
+
+# ignore Modelsim standard vlib folder
+work/*
