@@ -82,8 +82,8 @@ begin
         DIVISOR => DIVISOR_C,
         BITS_PER_DATA => BITS_PER_DATA_C,
         DATA_OUT => DATA_OUT_I,
-        UART_CLOCK_OUT => UART_CLOCK_OUT_I,
-        STATus => STATus_I
+        UART_CLOCK_OUT => UART_CLOCK_OUT_i,
+        STATUS => STATUS_i
     );
 
 
